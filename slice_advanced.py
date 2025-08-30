@@ -3,5 +3,3 @@ def slice_advanced():
     rst = texto[4::2]
     print(rst)
 
-slice_advanced()
-
